@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smalltalk.Archive", "Smallt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smalltalk.Archive.Tests", "Smalltalk.Archive.Tests\Smalltalk.Archive.Tests.csproj", "{27BF04B0-DC70-4D4F-A848-E95086769CC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smalltalk.Tools", "Smalltalk.Tools\Smalltalk.Tools.csproj", "{78305B53-09DE-46F2-826C-559A23DFC357}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{27BF04B0-DC70-4D4F-A848-E95086769CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27BF04B0-DC70-4D4F-A848-E95086769CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27BF04B0-DC70-4D4F-A848-E95086769CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78305B53-09DE-46F2-826C-559A23DFC357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78305B53-09DE-46F2-826C-559A23DFC357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78305B53-09DE-46F2-826C-559A23DFC357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78305B53-09DE-46F2-826C-559A23DFC357}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

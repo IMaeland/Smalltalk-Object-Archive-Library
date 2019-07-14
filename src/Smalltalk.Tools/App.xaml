@@ -1,0 +1,9 @@
+﻿<Application x:Class="PW.Smalltalk.Tools.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:PW.Smalltalk.Tools"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <BitmapImage x:Key="AppIcon" UriSource="Icons\AppIcon.ico"/>
+    </Application.Resources>
+</Application>
